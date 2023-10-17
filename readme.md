@@ -1,0 +1,1 @@
+This is a simple online notepad project where users can create, edit, and delete notes, and they will also be saved in the local storage.
